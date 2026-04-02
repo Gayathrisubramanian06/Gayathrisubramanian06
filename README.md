@@ -65,7 +65,7 @@
 
 ## 🚀 Featured Projects
 
-### 💻 CodeCollab — Real-Time AI Pair Programming Platform &nbsp;*(In Progress)*
+### 💻 [CodeCollab — Real-Time AI Pair Programming Platform](https://github.com/Gayathrisubramanian06/CodeCollab) &nbsp;*(In Progress)*
 
 **Live Demo:** *Coming Soon*
 
@@ -81,7 +81,7 @@ An intelligent collaborative coding environment where AI actively participates i
 
 ---
 
-### 🎤 Voice-Based Scheme Eligibility System
+### 🎤 [Voice-Based Scheme Eligibility System](https://github.com/Gayathrisubramanian06/voice-scheme-eligibility)
 
 **`Live`** — IIT Ropar Research Project
 
@@ -97,7 +97,7 @@ A voice-first conversational AI that lets citizens check their eligibility for g
 
 ---
 
-### 💰 Personal Finance Tracker
+### 💰 [Personal Finance Tracker](https://github.com/Gayathrisubramanian06/Fintrack)
 
 A clean, secure finance management app that makes budgeting feel effortless.
 
