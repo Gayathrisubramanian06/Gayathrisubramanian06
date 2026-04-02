@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/🎓 CS Student-NSS College of Engineering-6C63FF?style=for-the-badge&labelColor=1a1a2e" height="42"/>
 &nbsp;
-<img src="https://img.shields.io/badge/📊 CGPA-9.43 / 10-FF6EC7?style=for-the-badge&labelColor=1a1a2e" height="42"/>
+<img src="https://img.shields.io/badge/📊 CGPA-9.16 / 10-FF6EC7?style=for-the-badge&labelColor=1a1a2e" height="42"/>
 &nbsp;
 <img src="https://img.shields.io/badge/🔬 Research Intern-IIT Ropar-00D4AA?style=for-the-badge&labelColor=1a1a2e" height="42"/>
 
@@ -103,7 +103,7 @@ An intelligent collaborative coding environment where AI actively participates i
 
 ---
 
-### 🎤 [Voice-Based Scheme Eligibility System](https://github.com/Gayathrisubramanian06/Niti-setu)
+### 🎤 [Niti-Setu - Voice-Based Scheme Eligibility System](https://github.com/Gayathrisubramanian06/Niti-setu)
 
 **`Live`** — IIT Ropar Research Project
 
@@ -119,7 +119,7 @@ A voice-first conversational AI that lets citizens check their eligibility for g
 
 ---
 
-### 💰 [Personal Finance Tracker](https://github.com/Gayathrisubramanian06/Fintrack)
+### 💰 [Fintrack - Personal Finance Tracker](https://github.com/Gayathrisubramanian06/Fintrack)
 
 A clean, secure finance management app that makes budgeting feel effortless.
 
