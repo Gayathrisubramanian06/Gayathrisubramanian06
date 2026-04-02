@@ -1,4 +1,4 @@
-
+# 👋 Hi, I'm Gayathri S
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/🎓 CS Student-NSS College of Engineering-6C63FF?style=for-the-badge&labelColor=1a1a2e" height="42"/>
 &nbsp;
-<img src="https://img.shields.io/badge/📊 CGPA-9.16 / 10-FF6EC7?style=for-the-badge&labelColor=1a1a2e" height="42"/>
+<img src="https://img.shields.io/badge/📊 CGPA-9.43 / 10-FF6EC7?style=for-the-badge&labelColor=1a1a2e" height="42"/>
 &nbsp;
 <img src="https://img.shields.io/badge/🔬 Research Intern-IIT Ropar-00D4AA?style=for-the-badge&labelColor=1a1a2e" height="42"/>
 
@@ -103,7 +103,7 @@ An intelligent collaborative coding environment where AI actively participates i
 
 ---
 
-### 🎤 [Niti-Setu - Voice-Based Scheme Eligibility System](https://github.com/Gayathrisubramanian06/Niti-setu)
+### 🎤 [Voice-Based Scheme Eligibility System](https://github.com/Gayathrisubramanian06/Niti-setu)
 
 **`Live`** — IIT Ropar Research Project
 
@@ -119,7 +119,7 @@ A voice-first conversational AI that lets citizens check their eligibility for g
 
 ---
 
-### 💰 [Fintrack - Personal Finance Tracker](https://github.com/Gayathrisubramanian06/Fintrack)
+### 💰 [Personal Finance Tracker](https://github.com/Gayathrisubramanian06/Fintrack)
 
 A clean, secure finance management app that makes budgeting feel effortless.
 
@@ -146,11 +146,11 @@ A clean, secure finance management app that makes budgeting feel effortless.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gayathrisubramanian06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api?username=Gayathrisubramanian06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7&text_color=FFFFFF" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gayathrisubramanian06&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7)
+<img src="https://streak-stats.demolab.com/?user=Gayathrisubramanian06&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathrisubramanian06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathrisubramanian06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF" />
 
 </div>
 
