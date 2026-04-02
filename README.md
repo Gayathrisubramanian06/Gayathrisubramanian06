@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gayathri S
 
-🎓 B.Tech CSE @ NSS College of Engineering, Palakkad &nbsp;|&nbsp; CGPA: 9.43  
+🎓 B.Tech CSE @ NSS College of Engineering, Palakkad &nbsp;|&nbsp; CGPA: 9.16  
 🤖 AI | ML | LLM Developer  
 🚀 Building real-world AI systems that solve real problems
 
@@ -10,8 +10,10 @@
 
 * 🔍 Exploring **LLMs, RAG, AI Agents & LangChain Pipelines**
 * ⚙️ Skilled in **Backend Development + AI Integration**
-* 🧠 Passionate about **scalable, production-ready AI solutions**
+* 💡 Love participating in hackathons and leading collaborative projects
 * 🌱 Currently interning at **IIT Ropar** — working on voice-based AI systems
+* 📫 Reach me at: gayathrisubramanian2006@gmail.com
+
 
 ---
 
@@ -65,7 +67,7 @@
 
 ## 🚀 Featured Projects
 
-### 💻 [CodeCollab — Real-Time AI Pair Programming Platform](https://github.com/Gayathrisubramanian06/CodeCollab) &nbsp;*(In Progress)*
+### 💻 [CodeCollab — Real-Time AI Pair Programming Platform](https://github.com/Gayathrisubramanian06/CodeCollab-) &nbsp;*(In Progress)*
 
 **Live Demo:** *Coming Soon*
 
@@ -81,7 +83,7 @@ An intelligent collaborative coding environment where AI actively participates i
 
 ---
 
-### 🎤 [Voice-Based Scheme Eligibility System](https://github.com/Gayathrisubramanian06/voice-scheme-eligibility)
+### 🎤 [Niti-Setu - Voice-Based Scheme Eligibility System](https://github.com/Gayathrisubramanian06/Niti-setu)
 
 **`Live`** — IIT Ropar Research Project
 
@@ -97,7 +99,7 @@ A voice-first conversational AI that lets citizens check their eligibility for g
 
 ---
 
-### 💰 [Personal Finance Tracker](https://github.com/Gayathrisubramanian06/Fintrack)
+### 💰 [Fintrack - Personal Finance Tracker](https://github.com/Gayathrisubramanian06/Fintrack)
 
 A clean, secure finance management app that makes budgeting feel effortless.
 
