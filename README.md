@@ -111,16 +111,7 @@ A clean, secure finance management app that makes budgeting feel effortless.
 
 ---
 
-## 👥 Leadership & Impact
-
-* 🥇 **Top 5%** — NPTEL Joy of Computing Using Python
-* 🧠 **AI/LangChain Developer** — Latent Space Hackathon | Developed a medical-AI assistant
-* 🏁 **Team Lead** — DedSec CTF | Among Top 5 teams with **7650 points**
-* 🏆 **Team Lead** — Ajraksha Hackathon | Developed a Voice-Based Eligibility Scheme System
-
----
-
-## 🏆 Achievements & Certifications
+## 🏆 Achievements & Leadership
 
 * 🥇 **Top 5%** — NPTEL Joy of Computing Using Python *(Elite Gold)*
 * 🧠 **AI/LangChain Developer** — Latent Space Hackathon | Developed a medical-AI assistant
@@ -155,8 +146,8 @@ A clean, secure finance management app that makes budgeting feel effortless.
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="45" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:gayathrisubramanian2006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="45" alt="Email"/>
+<a href="mailto:gayathrisubramanian2006@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Email"/>
 </a>
 
 </div>
