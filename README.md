@@ -1,8 +1,30 @@
 # 👋 Hi, I'm Gayathri S
 
-🎓 B.Tech CSE @ NSS College of Engineering, Palakkad &nbsp;|&nbsp; CGPA: 9.16  
-🤖 AI | ML | LLM Developer  
-🚀 Building real-world AI systems that solve real problems
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gayathri%20S&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20LLM%20Developer&descAlignY=58&descSize=20)
+
+</div>
+
+<div align="center">
+
+![CS Student](https://img.shields.io/badge/🎓_CS_Student-NSS_College_of_Engineering-6C63FF?style=flat-square&labelColor=1a1a2e)
+&nbsp;
+![CGPA](https://img.shields.io/badge/📊_CGPA-9.43_/_10-FF6EC7?style=flat-square&labelColor=1a1a2e)
+&nbsp;
+![Intern](https://img.shields.io/badge/🔬_Research_Intern-IIT_Ropar-00D4AA?style=flat-square&labelColor=1a1a2e)
+
+<br/>
+
+![AI](https://img.shields.io/badge/🤖_AI_%7C_ML-Enthusiast-FF6F00?style=flat-square&labelColor=1a1a2e)
+&nbsp;
+![LLM](https://img.shields.io/badge/⚡_LLM_%7C_RAG-Developer-F7DF1E?style=flat-square&labelColor=1a1a2e&color=F7DF1E)
+&nbsp;
+![Open Source](https://img.shields.io/badge/🚀_Open_Source-Builder-3776AB?style=flat-square&labelColor=1a1a2e)
+
+</div>
+
+<br/>
 
 ---
 
@@ -10,10 +32,8 @@
 
 * 🔍 Exploring **LLMs, RAG, AI Agents & LangChain Pipelines**
 * ⚙️ Skilled in **Backend Development + AI Integration**
-* 💡 Love participating in hackathons and leading collaborative projects
+* 🧠 Passionate about **scalable, production-ready AI solutions**
 * 🌱 Currently interning at **IIT Ropar** — working on voice-based AI systems
-* 📫 Reach me at: gayathrisubramanian2006@gmail.com
-
 
 ---
 
@@ -83,7 +103,7 @@ An intelligent collaborative coding environment where AI actively participates i
 
 ---
 
-### 🎤 [Niti-Setu - Voice-Based Scheme Eligibility System](https://github.com/Gayathrisubramanian06/Niti-setu)
+### 🎤 [Voice-Based Scheme Eligibility System](https://github.com/Gayathrisubramanian06/Niti-setu)
 
 **`Live`** — IIT Ropar Research Project
 
@@ -99,7 +119,7 @@ A voice-first conversational AI that lets citizens check their eligibility for g
 
 ---
 
-### 💰 [Fintrack - Personal Finance Tracker](https://github.com/Gayathrisubramanian06/Fintrack)
+### 💰 [Personal Finance Tracker](https://github.com/Gayathrisubramanian06/Fintrack)
 
 A clean, secure finance management app that makes budgeting feel effortless.
 
@@ -158,4 +178,10 @@ A clean, secure finance management app that makes budgeting feel effortless.
 
 <div align="center">
   <i>✨ Open to collaborations, research projects, and AI/ML opportunities!</i>
+</div>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+
 </div>
