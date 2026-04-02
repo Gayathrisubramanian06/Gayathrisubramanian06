@@ -1,111 +1,92 @@
-## Hi there 👋
 
 
 # 👋 Hi, I'm Gayathri S
 
-🎓 B.Tech CSE @ NSS College of Engineering (CGPA: 9.43)
-🤖 AI / ML Enthusiast | LLM Builder | Backend Developer
-📍 India
+🎓 B.Tech CSE @ NSS College of Engineering (CGPA: 9.1)
+🤖 AI | ML | LLM Developer
+🚀 Building real-world AI systems
 
 ---
 
 ## 🚀 About Me
 
-I'm passionate about building **real-world AI systems** using Large Language Models, Retrieval-Augmented Generation (RAG), and modern backend technologies.
-
-I enjoy transforming cutting-edge AI concepts into practical applications — from **voice-based assistants** to **real-time collaborative platforms**.
-
-* 🔍 Exploring: LLMs, LangChain, AI Agents
-* ⚙️ Skilled in: Backend + AI Integration
-* 🧠 Interested in: Scalable AI systems & applied ML
+* 🔍 Exploring **LLMs, RAG, AI Agents**
+* ⚙️ Skilled in **Backend + AI Integration**
+* 🧠 Passionate about **scalable AI systems**
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Programming Languages
 
-**Languages**
-Python | Java | C | JavaScript
-
-**Frontend**
-React.js | HTML | CSS
-
-**Backend**
-Node.js | Express.js | REST APIs
-
-**Databases**
-MongoDB | MySQL
-
-**AI / Tools**
-LangChain | RAG Pipelines | Gemini API | Claude API
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
 ---
 
-## 💼 Experience
+## 🤖 AI / ML & Data Science
 
-### 🔹 AI Intern – IIT Ropar (2026–Present)
-
-* Built a **voice-based eligibility system** for government schemes
-* Integrated:
-
-  * Speech-to-text
-  * Gemini API
-  * RAG pipeline
-* Enabled natural language interaction for users
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge\&logo=huggingface\&logoColor=black)
 
 ---
 
-### 🔹 Data Science Intern – Jyesta Corporate (2025)
+## 🌐 Web Development
 
-* Worked on real-world datasets
-* Built ML models with preprocessing & evaluation
-* Completed both mini + major projects
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+
+---
+
+## 🗄️ Databases & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge\&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 
 ---
 
 ## 🧠 Projects
 
-### 💻 CodeCollab — AI Pair Programming Platform *(In Progress)*
+### 💻 CodeCollab *(In Progress)*
 
-**Tech:** React, Node.js, Socket.io, MongoDB, Redis, LangChain
-
-* Real-time collaborative code editor
-* AI agent that reviews code *live* and suggests fixes
-* Streaming AI responses token-by-token (low latency UX)
+* Real-time AI pair programming platform
+* Live code suggestions using LLMs
+* Streaming responses via WebSockets
 
 ---
 
 ### 🎤 Voice-Based Scheme Eligibility System
 
-**Tech:** MERN + LLM + RAG
-
-* Conversational system for checking government scheme eligibility
-* Natural language queries via voice
-* Context-aware responses using Gemini API
+* Voice-based conversational AI
+* Uses RAG + Gemini API
+* Context-aware eligibility checking
 
 ---
 
 ### 💰 Personal Finance Tracker
 
-**Tech:** JavaScript, EJS, Node.js
-
-* Expense tracking + budgeting system
-* Goal-setting for savings
-* Secure authentication using bcrypt
+* Expense tracking & budgeting
+* Goal setting system
+* Secure auth using bcrypt
 
 ---
 
 ## 🏆 Achievements
 
-* 🥇 Top 5% — NPTEL *Joy of Computing Using Python*
-* 🧠 AI Developer — Latent Space Hackathon (Medical AI Assistant)
-* 🏁 Team Lead — DedSec CTF (Top 5 teams)
+* 🥇 Top 5% — NPTEL Python
+* 🧠 AI Developer — Latent Space Hackathon
+* 🏁 Team Lead — DedSec CTF(Ranked among Top 5)
 * 🛠️ Team Lead — Ajraksha Hackathon
-
----
-
-## 📜 Certifications
-
-* NPTEL Elite Gold — Joy of Computing Using Python
 
 ---
 
@@ -117,15 +98,11 @@ LangChain | RAG Pipelines | Gemini API | Claude API
 
 ---
 
-## ⚡ Fun Fact
+```
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gayathrisubramanian06&show_icons=true)
 
-I love building systems where **AI feels seamless and proactive**, not just reactive.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathrisubramanian06&layout=compact)
+```
 
----
 
-## ⭐ What I'm Working On
-
-* Improving AI latency using streaming responses
-* Building smarter AI agents
-* Scaling real-time collaborative systems
 
