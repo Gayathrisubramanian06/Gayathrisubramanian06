@@ -103,7 +103,7 @@ An intelligent collaborative coding environment where AI actively participates i
 
 ---
 
-### 🎤 [Voice-Based Scheme Eligibility System](https://github.com/Gayathrisubramanian06/Niti-setu)
+### 🎤 [Niti-Setu - Voice-Based Scheme Eligibility System](https://github.com/Gayathrisubramanian06/Niti-setu)
 
 **`Live`** — IIT Ropar Research Project
 
@@ -119,7 +119,7 @@ A voice-first conversational AI that lets citizens check their eligibility for g
 
 ---
 
-### 💰 [Personal Finance Tracker](https://github.com/Gayathrisubramanian06/Fintrack)
+### 💰 [Fintrack - Personal Finance Tracker](https://github.com/Gayathrisubramanian06/Fintrack)
 
 A clean, secure finance management app that makes budgeting feel effortless.
 
