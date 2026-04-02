@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Gayathri S
 
 <div align="center">
 
