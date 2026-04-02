@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gayathri%20S&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20LLM%20Developer&descAlignY=58&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gayathri%20S&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20LLM%20Developer&descAlignY=58&descSize=18)
 
 </div>
 
