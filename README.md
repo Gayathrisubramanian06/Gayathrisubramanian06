@@ -26,36 +26,20 @@
 
 ---
 
-## 🤖 AI / ML & Data Science
+## 🌐 Technologies & Frameworks
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
----
-
-## 🌐 Web Development
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🗄️ Databases & Tools
+## 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -129,20 +113,19 @@ A clean, secure finance management app that makes budgeting feel effortless.
 
 ## 👥 Leadership & Impact
 
-* 🧠 **AI/LangChain Developer** — Latent Space Hackathon | Built a medical-AI assistant
-* 🏁 **Team Lead** — DedSec CTF | Secured Top 5 with **7650 points**
-* 🏆 **Team Lead** — Ajraksha Hackathon | Developed Voice-Based Scheme Eligibility System
-* 🎓 **Campus Ambassador** — Skill Intern
-* 📚 **Course Committee Representative** — Represented peers across multiple courses
-* 🇮🇳 **Hackathon Participant** — Smart India Hackathon 2024
+* 🥇 **Top 5%** — NPTEL Joy of Computing Using Python
+* 🧠 **AI/LangChain Developer** — Latent Space Hackathon | Developed a medical-AI assistant
+* 🏁 **Team Lead** — DedSec CTF | Among Top 5 teams with **7650 points**
+* 🏆 **Team Lead** — Ajraksha Hackathon | Developed a Voice-Based Eligibility Scheme System
 
 ---
 
 ## 🏆 Achievements & Certifications
 
 * 🥇 **Top 5%** — NPTEL Joy of Computing Using Python *(Elite Gold)*
-* 🧪 Comfortable working with cutting-edge LLM tooling: LangChain, RAG, Gemini API, Claude API
-* 🔒 Team Lead — DedSec CTF | Top 5 teams nationally
+* 🧠 **AI/LangChain Developer** — Latent Space Hackathon | Developed a medical-AI assistant
+* 🏁 **Team Lead** — DedSec CTF | Among Top 5 teams with **7650 points**
+* 🏆 **Team Lead** — Ajraksha Hackathon | Developed a Voice-Based Eligibility Scheme System
 
 ---
 
