@@ -8,19 +8,19 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎓 CS Student-NSS College of Engineering-6C63FF?style=for-the-badge&labelColor=1a1a2e" height="32"/>
+<img src="https://img.shields.io/badge/🎓 CS Student-NSS College of Engineering-6C63FF?style=for-the-badge&labelColor=1a1a2e" height="42"/>
 &nbsp;
-<img src="https://img.shields.io/badge/📊 CGPA-9.43 / 10-FF6EC7?style=for-the-badge&labelColor=1a1a2e" height="32"/>
+<img src="https://img.shields.io/badge/📊 CGPA-9.43 / 10-FF6EC7?style=for-the-badge&labelColor=1a1a2e" height="42"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🔬 Research Intern-IIT Ropar-00D4AA?style=for-the-badge&labelColor=1a1a2e" height="32"/>
+<img src="https://img.shields.io/badge/🔬 Research Intern-IIT Ropar-00D4AA?style=for-the-badge&labelColor=1a1a2e" height="42"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🤖 AI | ML-Enthusiast-FF6F00?style=for-the-badge&labelColor=1a1a2e" height="32"/>
+<img src="https://img.shields.io/badge/🤖 AI | ML-Enthusiast-FF6F00?style=for-the-badge&labelColor=1a1a2e" height="42"/>
 &nbsp;
-<img src="https://img.shields.io/badge/⚡ LLM | RAG-Developer-F7DF1E?style=for-the-badge&labelColor=1a1a2e" height="32"/>
+<img src="https://img.shields.io/badge/⚡ LLM | RAG-Developer-F7DF1E?style=for-the-badge&labelColor=1a1a2e" height="42"/>
 &nbsp;
-<img src="https://img.shields.io/badge/🚀 Open Source-Builder-3776AB?style=for-the-badge&labelColor=1a1a2e" height="32"/>
+<img src="https://img.shields.io/badge/🚀 Open Source-Builder-3776AB?style=for-the-badge&labelColor=1a1a2e" height="42"/>
 
 </div>
 
