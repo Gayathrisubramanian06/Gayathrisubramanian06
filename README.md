@@ -137,7 +137,6 @@ A clean, secure finance management app that makes budgeting feel effortless.
 ## 🏆 Achievements & Leadership
 
 * 🥇 **Top 5%** — NPTEL Joy of Computing Using Python *(Elite Gold)*
-* 🧠 **AI/LangChain Developer** — Latent Space Hackathon | Developed a medical-AI assistant
 * 🏁 **Team Lead** — DedSec CTF | Among Top 5 teams with **7650 points**
 * 🏆 **Team Lead** — Ajraksha Hackathon | Developed a Voice-Based Eligibility Scheme System
 
