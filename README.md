@@ -120,20 +120,6 @@ A voice-first conversational AI that lets citizens check their eligibility for g
 
 ---
 
-### 💰 [Fintrack - Personal Finance Tracker](https://github.com/Gayathrisubramanian06/Fintrack)
-
-A clean, secure finance management app that makes budgeting feel effortless.
-
-**Key Features:**
-* 📊 Expense tracking & smart budgeting dashboard
-* 🎯 Goal-setting and monthly savings target system
-* 🔐 Secure authentication with **bcrypt** password hashing
-* 📈 Visual spending insights to keep finances on track
-
-**Tech Stack:** `JavaScript` `EJS` `Node.js` `Express.js` `bcrypt`
-
----
-
 ## 🏆 Achievements & Leadership
 
 * 🥇 **Top 5%** — NPTEL Joy of Computing Using Python *(Elite Gold)*
