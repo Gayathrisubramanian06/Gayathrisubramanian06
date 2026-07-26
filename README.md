@@ -120,7 +120,7 @@ A voice-first conversational AI that lets citizens check their eligibility for g
 
 ---
 
-⛽ **[Energy Supply Chain Digital Twin]**(https://github.com/Gayathrisubramanian06/Supply-Chain-Digital-Twin)
+### ⛽ **Energy Supply Chain Digital Twin**(https://github.com/Gayathrisubramanian06/Supply-Chain-Digital-Twin)
 
 Live Demo: Coming Soon
 
