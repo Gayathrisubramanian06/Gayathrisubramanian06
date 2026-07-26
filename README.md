@@ -120,6 +120,23 @@ A voice-first conversational AI that lets citizens check their eligibility for g
 
 ---
 
+⛽ [Energy Supply Chain Digital Twin — AI-Powered Import Resilience Platform](https://github.com/Gayathrisubramanian06/Supply-Chain-Digital-Twin) (In Progress)
+Live Demo: Coming Soon
+
+An AI-driven digital twin monitoring India's crude oil supply chain in real time — fusing live geopolitical intelligence, disruption simulation, and procurement strategy into one interactive map, so India can anticipate energy shocks instead of reacting to them.
+
+Key Features:
+* 🌍 Real-time risk scoring powered by a custom-trained ML model (TF-IDF + Ridge Regression) on live GDELT news feeds
+* 🛡️ Automated cross-referencing against real OFAC sanctions data (100+ Iran-oil sanctioned entities)
+* 🔬 ML-driven "what-if" shock simulator (Ridge Regression + Nearest Neighbors) trained on 25+ real historical oil crises, from the 1973 embargo to 2026 Hormuz incidents
+* 🚛 Adaptive procurement engine that dynamically re-ranks alternate crude sources as Hormuz risk rises
+* 🏦 Strategic Reserve Optimizer calculating real SPR drawdown strategy across India's actual 3 reserve facilities
+* 🗺️ Live interactive map — risk-colored shipping lanes, animated AIS vessel traffic, and procurement recommendations, all reacting to one shared live risk score
+
+Tech Stack: `React.js` `FastAPI` `Python` `scikit-learn` `Leaflet` `Groq (Llama 3.3)` `GDELT` `AISStream.io`
+
+---
+
 ## 🏆 Achievements & Leadership
 
 * 🥇 **Top 5%** — NPTEL Joy of Computing Using Python *(Elite Gold)*
