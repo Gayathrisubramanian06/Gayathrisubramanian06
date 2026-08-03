@@ -122,7 +122,7 @@ A voice-first conversational AI that lets citizens check their eligibility for g
 
 ### ⛽ [Energy Supply Chain Digital Twin](https://github.com/Gayathrisubramanian06/Supply-Chain-Digital-Twin)
 
-Live Demo: Coming Soon
+Live Demo: https://supply-chain-digital-twin-kbgx-g4d0n9akb-gayathri20.vercel.app/
 
 An AI-powered digital twin that monitors India's crude oil supply chain in real time — fusing geopolitical risk, disruption simulation, and procurement strategy into one live map.
 
