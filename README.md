@@ -68,7 +68,7 @@
 
 ## 🏢 Internship Experience
 
-### 🔬 Research Intern — IIT Ropar &nbsp;*(March 2026 – Present)*
+### 🔬 NPTEL Intern — IIT Ropar &nbsp;*(March 2026 – Present)*
 
 **`Voice AI` `RAG` `Gemini API` `Speech-to-Text` `NLP`**
 
