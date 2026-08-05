@@ -166,11 +166,7 @@ Tech Stack: `React.js` `FastAPI` `Python` `scikit-learn` `Leaflet` `Groq` `GDELT
 <a href="https://www.linkedin.com/in/gayathri-s-1a7900337">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="45" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/Gayathrisubramanian06">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="45" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
+
 <a href="mailto:gayathrisubramanian2006@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Email"/>
 </a>
