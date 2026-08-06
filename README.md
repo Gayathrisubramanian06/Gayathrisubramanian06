@@ -1,4 +1,23 @@
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=GAYATHRI+S"/>
+</p>
+
+<p align="center">
+<b>AI • Machine Learning • Generative AI</b>
+</p>
+
+<p align="center">
+Building practical AI systems using LLMs, RAG, and intelligent agents.
+</p>
+
+<p align="center">
+<a href="mailto:gayathrisubramanian2006@gmail.com">Email</a> •
+<a href="https://github.com/Gayathrisubramanian06">GitHub</a> •
+<a href="https://www.linkedin.com/in/gayathri-s-1a7900337">LinkedIn</a>
+</p>
+
+---
 
 ---
 
