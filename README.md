@@ -11,31 +11,56 @@
 
 ---
 
-## 💻 Programming Languages
+# 💻 Programming Languages
 
+<p align="left">
 
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css"/>
 
+</p>
 
+---
 
+# 🤖 AI / Machine Learning
 
+<p align="left">
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt_Engineering-008080?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Agentic_AI-6A1B9A?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 🌐 Technologies & Frameworks
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,git,github"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
+</p>
 
 
 ---
 
-## 🌐 Technologies & Frameworks
+# 🗄️ Databases
 
+<p align="left">
 
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 
-
-
-
----
-
-## 🗄️ Databases
-
-
-
+</p>
 
 
 ---
@@ -119,6 +144,13 @@ Tech Stack: `React.js` `FastAPI` `Python` `scikit-learn` `Leaflet` `Groq` `GDELT
 - 🥇 **Top 5%** — NPTEL Joy of Computing Using Python *(Elite Gold)*
 - 🏁 **Team Lead** — DedSec CTF | Among Top 5 teams with **7650 points**
 - 🏆 **Team Lead** — Ajraksha Hackathon | Developed a Voice-Based Eligibility Scheme System
+
+---
+# 📜 Certifications
+
+- 🥇 NPTEL Elite Gold — Joy of Computing Using Python
+- 🥇 NPTEL Gold — Programming in Java
+- 💼 Deloitte Australia Technology Job Simulation — Forage
 
 ---
 
