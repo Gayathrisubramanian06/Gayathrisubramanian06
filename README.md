@@ -1,186 +1,173 @@
+---
 
-<div align="center">
+# 🧠 Research Profile
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gayathri%20S&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20LLM%20Developer&descAlignY=58&descSize=18)
+```yaml
+Name        : Gayathri S
+Role        : AI / Machine Learning Engineer
+Institution : NSS College of Engineering
 
-</div>
+Focus Areas:
+  - Generative AI
+  - Large Language Models
+  - Retrieval-Augmented Generation (RAG)
+  - AI Agents
+  - Machine Learning
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎓 CS Student-NSS College of Engineering-6C63FF?style=for-the-badge&labelColor=1a1a2e" height="42"/>
-&nbsp;
-<img src="https://img.shields.io/badge/📊 CGPA-9.02 / 10-FF6EC7?style=for-the-badge&labelColor=1a1a2e" height="42"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🔬 Winter Intern-IIT Ropar-00D4AA?style=for-the-badge&labelColor=1a1a2e" height="42"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🤖 AI | ML-Enthusiast-FF6F00?style=for-the-badge&labelColor=1a1a2e" height="42"/>
-&nbsp;
-<img src="https://img.shields.io/badge/⚡ LLM | RAG-Developer-F7DF1E?style=for-the-badge&labelColor=1a1a2e" height="42"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🚀 Open Source-Builder-3776AB?style=for-the-badge&labelColor=1a1a2e" height="42"/>
-
-</div>
-
-<br/>
+Current Work:
+  - Voice AI
+  - Agentic Workflows
+  - Production-ready AI Applications
+```
 
 ---
 
-## 🚀 About Me
+# ⚙️ Technical Stack
 
-* 🔍 Exploring **LLMs, RAG, AI Agents & LangChain Pipelines**
-* ⚙️ Skilled in **Backend Development + AI Integration**
-* 🧠 Passionate about **scalable, production-ready AI solutions**
-* 🌱 Intern at **IIT Ropar** — worked on voice-based and RAG systems
-
----
-
-## 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+| Domain | Technologies |
+|---------|--------------|
+| Languages | Python, Java, C, JavaScript |
+| AI & ML | LangChain, RAG, LLMs, Prompt Engineering, Scikit-learn |
+| Backend | Node.js, Express.js, FastAPI |
+| Frontend | React.js |
+| Databases | MongoDB, MySQL, Supabase |
+| APIs | Gemini API, Claude API, Groq API |
+| Tools | Git, GitHub, VS Code |
 
 ---
 
-## 🌐 Technologies & Frameworks
+# 🧪 Research & Internship Experience
 
-![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+## 🔬 NPTEL Research Intern — IIT Ropar *(March 2026 – Present)*
 
----
+`Voice AI` `RAG` `Gemini API` `Speech-to-Text`
 
-## 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
+- Developing a multilingual voice-based eligibility system for government schemes.
+- Designed a Retrieval-Augmented Generation (RAG) pipeline for context-aware document retrieval.
+- Integrated Speech-to-Text and Gemini API to enable natural language interaction.
 
 ---
 
-## 🏢 Internship Experience
+## 📊 Data Science Intern — Jyesta Corporate *(Aug 2025 – Oct 2025)*
 
-### 🔬 NPTEL Intern — IIT Ropar &nbsp;*(March 2026 – Present)*
+`Python` `Machine Learning` `Data Analysis`
 
-**`Voice AI` `RAG` `Gemini API` `Speech-to-Text` `NLP`**
-
-* Working on a voice-based eligibility checking system for government schemes, enabling citizen interaction through natural language queries
-* Integrated speech-to-text processing, Gemini API, and a Retrieval-Augmented Generation (RAG) pipeline to generate context-aware, accurate responses
+- Worked with real-world datasets for data preprocessing, feature engineering, and model development.
+- Developed machine learning models and evaluated their performance using standard metrics.
 
 ---
 
-### 📊 Data Science Intern — Jyesta Corporate &nbsp;*(Aug 2025 – Oct 2025)*
+# 📦 Project Portfolio
 
-**`Python` `Data Analysis` `Machine Learning` `Data Preprocessing`**
+## 💻 CodeCollab — Real-Time AI Pair Programming Platform
 
-* Completed a hands-on internship in Data Science, working with real-world datasets across Python, data analysis, and ML concepts
-* Built a mini project and a major project focusing on data preprocessing, model building, and result evaluation
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Gayathrisubramanian06/CodeCollab-)
 
----
+### Architecture
 
-## 🚀 Featured Projects
+Frontend → React.js
 
-### 💻 [CodeCollab — Real-Time AI Pair Programming Platform](https://github.com/Gayathrisubramanian06/CodeCollab-) &nbsp;*(In Progress)*
+Backend → Node.js
 
-**Live Demo:** *Coming Soon*
+AI Layer → LangChain + Claude API
 
-An intelligent collaborative coding environment where AI actively participates in development — not just when asked, but proactively.
+Realtime → Socket.io
 
-**Key Features:**
-* 🔄 Multi-user real-time code editing via **Socket.io**
-* 🤖 AI agent that proactively reviews live code changes and suggests fixes without explicit prompting
-* ⚡ Token-by-token streaming suggestion pipeline over WebSocket — reducing perceived latency with inline partial results
-* 🧠 Powered by **LangChain + Claude API** for context-aware suggestions
+### Features
 
-**Tech Stack:** `React.js` `Node.js` `Socket.io` `MongoDB` `Redis` `LangChain` `Claude API`
+- Multi-user collaborative coding
+- AI code review agent
+- Token streaming over WebSockets
+- Context-aware code suggestions
 
 ---
 
-### 🎤 [Niti-Setu - Voice-Based Scheme Eligibility System](https://github.com/Gayathrisubramanian06/Niti-setu)
+## 🎤 Niti-Setu — Voice-Based Scheme Eligibility System
 
-**`Live`** — IIT Ropar Research Project
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Gayathrisubramanian06/Niti-setu)
 
-A voice-first conversational AI that lets citizens check their eligibility for government schemes through natural language — no forms, no jargon.
+### Architecture
 
-**Key Features:**
-* 🎙️ Voice input via **speech-to-text** processing
-* 🔍 Semantic search using **RAG pipeline** for accurate scheme matching
-* 💬 Context-aware conversational responses via **Gemini API**
-* 🌐 Full-stack MERN application with real-time interaction
+Frontend → React.js
 
-**Tech Stack:** `Node.js` `React.js` `MongoDB` `Express` `Gemini API` `RAG` `Speech-to-Text`
+Backend → Node.js + Express
 
----
+AI Layer → Gemini API + RAG
 
-### ⛽ [Energy Supply Chain Digital Twin](https://github.com/Gayathrisubramanian06/Supply-Chain-Digital-Twin)
+Database → MongoDB
 
-Live Demo: https://supply-chain-digital-twin-bfi3.vercel.app/
+### Features
 
-An AI-powered digital twin that monitors India's crude oil supply chain in real time — fusing geopolitical risk, disruption simulation, and procurement strategy into one live map.
-
-Key Features:
-* 🌍 Real-time risk scoring via custom-trained ML model on live GDELT news feeds
-* 🛡️ Automated cross-referencing against real OFAC sanctions data
-* 🔬 ML-driven shock simulator trained on 25+ real historical oil crises
-* 🚛 Adaptive procurement engine that re-ranks alternate crude sources as risk rises
-* 🗺️ Live interactive map with animated AIS vessel traffic and risk-colored shipping lanes
-
-Tech Stack: `React.js` `FastAPI` `Python` `scikit-learn` `Leaflet` `Groq` `GDELT`
+- Voice-first interface
+- Semantic retrieval using RAG
+- Context-aware conversational responses
+- Real-time eligibility checking
 
 ---
 
-## 🏆 Achievements & Leadership
+## ⛽ Energy Supply Chain Digital Twin
 
-* 🥇 **Top 5%** — NPTEL Joy of Computing Using Python *(Elite Gold)*
-* 🏁 **Team Lead** — DedSec CTF | Among Top 5 teams with **7650 points**
-* 🏆 **Team Lead** — Ajraksha Hackathon | Developed a Voice-Based Eligibility Scheme System
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Gayathrisubramanian06/Supply-Chain-Digital-Twin)
+
+### Architecture
+
+Frontend → React.js
+
+Backend → FastAPI
+
+ML Layer → Scikit-learn
+
+Data → GDELT + OFAC
+
+### Features
+
+- Live geopolitical risk scoring
+- Historical crisis simulation
+- Adaptive procurement recommendations
+- Interactive supply chain visualization
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gayathrisubramanian06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7&text_color=FFFFFF" />
-
-<img src="https://streak-stats.demolab.com/?user=Gayathrisubramanian06&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathrisubramanian06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF" />
-
-</div>
+- 🥇 NPTEL Joy of Computing Using Python — Elite Gold (Top 5%)
+- 🏁 Team Lead — DedSec CTF (Top 5 Teams)
+- 🏆 Team Lead — Ajraksha Hackathon
 
 ---
 
-## 🤝 Let's Connect!
+# 📈 Development Metrics
 
-<div align="center">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/gayathri-s-1a7900337">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="45" alt="LinkedIn"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gayathrisubramanian06&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathrisubramanian06&layout=compact&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathrisubramanian06&theme=github-dark-blue"/>
+
+</p>
+
+---
+
+# 📡 Contact
+
+<p align="center">
+
+<a href="mailto:gayathrisubramanian2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:gayathrisubramanian2006@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45" alt="Email"/>
+<a href="https://github.com/Gayathrisubramanian06">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</div>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
----
-
-<div align="center">
-  <i>✨ Open to collaborations, research projects, and AI/ML opportunities!</i>
-</div>
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
-
-</div>
+</p>
