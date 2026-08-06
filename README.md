@@ -32,55 +32,29 @@ Building practical AI systems using LLMs, RAG, and intelligent agents.
 
 # 💻 Programming Languages
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css"/>
-
-</p>
+`Python` • `Java` • `C` • `JavaScript` • `HTML` • `CSS`
 
 ---
 
 # 🤖 AI / Machine Learning
 
-<p align="left">
+`Large Language Models (LLMs)` • `Retrieval-Augmented Generation (RAG)` • `LangChain`
 
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prompt_Engineering-008080?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Agentic_AI-6A1B9A?style=for-the-badge"/>
-
-</p>
+`Prompt Engineering` • `Generative AI` • `Agentic AI`
 
 ---
 
 # 🌐 Technologies & Frameworks
 
-<p align="left">
+`React.js` • `Node.js` • `Express.js`
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,git,github"/>
-
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-
-</p>
+`REST APIs` • `Git` • `GitHub`
 
 
 ---
-
 # 🗄️ Databases
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
-
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-
-</p>
-
+`MongoDB` • `MySQL` • `Supabase`
 
 ---
 
