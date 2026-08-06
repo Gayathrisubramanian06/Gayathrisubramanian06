@@ -1,173 +1,131 @@
----
 
-# 🧠 Research Profile
-
-```yaml
-Name        : Gayathri S
-Role        : AI / Machine Learning Engineer
-Institution : NSS College of Engineering
-
-Focus Areas:
-  - Generative AI
-  - Large Language Models
-  - Retrieval-Augmented Generation (RAG)
-  - AI Agents
-  - Machine Learning
-
-Current Work:
-  - Voice AI
-  - Agentic Workflows
-  - Production-ready AI Applications
-```
 
 ---
 
-# ⚙️ Technical Stack
+## 🚀 About Me
 
-| Domain | Technologies |
-|---------|--------------|
-| Languages | Python, Java, C, JavaScript |
-| AI & ML | LangChain, RAG, LLMs, Prompt Engineering, Scikit-learn |
-| Backend | Node.js, Express.js, FastAPI |
-| Frontend | React.js |
-| Databases | MongoDB, MySQL, Supabase |
-| APIs | Gemini API, Claude API, Groq API |
-| Tools | Git, GitHub, VS Code |
+- 🔍 Exploring **LLMs, RAG, AI Agents & LangChain Pipelines**
+- ⚙️ Skilled in **Backend Development + AI Integration**
+- 🧠 Passionate about **scalable, production-ready AI solutions**
+- 🌱 Intern at **IIT Ropar** — worked on voice-based and RAG systems
 
 ---
 
-# 🧪 Research & Internship Experience
+## 💻 Programming Languages
 
-## 🔬 NPTEL Research Intern — IIT Ropar *(March 2026 – Present)*
 
-`Voice AI` `RAG` `Gemini API` `Speech-to-Text`
 
-- Developing a multilingual voice-based eligibility system for government schemes.
-- Designed a Retrieval-Augmented Generation (RAG) pipeline for context-aware document retrieval.
-- Integrated Speech-to-Text and Gemini API to enable natural language interaction.
 
----
 
-## 📊 Data Science Intern — Jyesta Corporate *(Aug 2025 – Oct 2025)*
 
-`Python` `Machine Learning` `Data Analysis`
 
-- Worked with real-world datasets for data preprocessing, feature engineering, and model development.
-- Developed machine learning models and evaluated their performance using standard metrics.
 
 ---
 
-# 📦 Project Portfolio
+## 🌐 Technologies & Frameworks
 
-## 💻 CodeCollab — Real-Time AI Pair Programming Platform
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Gayathrisubramanian06/CodeCollab-)
 
-### Architecture
 
-Frontend → React.js
 
-Backend → Node.js
 
-AI Layer → LangChain + Claude API
-
-Realtime → Socket.io
-
-### Features
-
-- Multi-user collaborative coding
-- AI code review agent
-- Token streaming over WebSockets
-- Context-aware code suggestions
 
 ---
 
-## 🎤 Niti-Setu — Voice-Based Scheme Eligibility System
+## 🗄️ Databases
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Gayathrisubramanian06/Niti-setu)
 
-### Architecture
 
-Frontend → React.js
 
-Backend → Node.js + Express
-
-AI Layer → Gemini API + RAG
-
-Database → MongoDB
-
-### Features
-
-- Voice-first interface
-- Semantic retrieval using RAG
-- Context-aware conversational responses
-- Real-time eligibility checking
 
 ---
 
-## ⛽ Energy Supply Chain Digital Twin
+## 🏢 Internship Experience
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Gayathrisubramanian06/Supply-Chain-Digital-Twin)
+### 🔬 NPTEL Intern — IIT Ropar  *(March 2026 – Present)*
 
-### Architecture
+**`Voice AI`** **`RAG`** **`Gemini API`** **`Speech-to-Text`** **`NLP`**
 
-Frontend → React.js
-
-Backend → FastAPI
-
-ML Layer → Scikit-learn
-
-Data → GDELT + OFAC
-
-### Features
-
-- Live geopolitical risk scoring
-- Historical crisis simulation
-- Adaptive procurement recommendations
-- Interactive supply chain visualization
+- Working on a voice-based eligibility checking system for government schemes, enabling citizen interaction through natural language queries
+- Integrated speech-to-text processing, Gemini API, and a Retrieval-Augmented Generation (RAG) pipeline to generate context-aware, accurate responses
 
 ---
 
-# 🏆 Achievements
+### 📊 Data Science Intern — Jyesta Corporate  *(Aug 2025 – Oct 2025)*
 
-- 🥇 NPTEL Joy of Computing Using Python — Elite Gold (Top 5%)
-- 🏁 Team Lead — DedSec CTF (Top 5 Teams)
-- 🏆 Team Lead — Ajraksha Hackathon
+**`Python`** **`Data Analysis`** **`Machine Learning`** **`Data Preprocessing`**
 
----
-
-# 📈 Development Metrics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gayathrisubramanian06&show_icons=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathrisubramanian06&layout=compact&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathrisubramanian06&theme=github-dark-blue"/>
-
-</p>
+- Completed a hands-on internship in Data Science, working with real-world datasets across Python, data analysis, and ML concepts
+- Built a mini project and a major project focusing on data preprocessing, model building, and result evaluation
 
 ---
 
-# 📡 Contact
+## 🚀 Featured Projects
 
-<p align="center">
+### 💻 [CodeCollab — Real-Time AI Pair Programming Platform](https://github.com/Gayathrisubramanian06/CodeCollab-)  *(In Progress)*
 
-<a href="mailto:gayathrisubramanian2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**Live Demo:** *Coming Soon*
 
-<a href="https://github.com/Gayathrisubramanian06">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+An intelligent collaborative coding environment where AI actively participates in development — not just when asked, but proactively.
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+**Key Features:**
 
-</p>
+- 🔄 Multi-user real-time code editing via **Socket.io**
+- 🤖 AI agent that proactively reviews live code changes and suggests fixes without explicit prompting
+- ⚡ Token-by-token streaming suggestion pipeline over WebSocket — reducing perceived latency with inline partial results
+- 🧠 Powered by **LangChain + Claude API** for context-aware suggestions
+
+**Tech Stack:** `React.js` `Node.js` `Socket.io` `MongoDB` `Redis` `LangChain` `Claude API`
+
+---
+
+### 🎤 [Niti-Setu - Voice-Based Scheme Eligibility System](https://github.com/Gayathrisubramanian06/Niti-setu)
+
+**`Live`** — IIT Ropar Research Project
+
+A voice-first conversational AI that lets citizens check their eligibility for government schemes through natural language — no forms, no jargon.
+
+**Key Features:**
+
+- 🎙️ Voice input via **speech-to-text** processing
+- 🔍 Semantic search using **RAG pipeline** for accurate scheme matching
+- 💬 Context-aware conversational responses via **Gemini API**
+- 🌐 Full-stack MERN application with real-time interaction
+
+**Tech Stack:** `Node.js` `React.js` `MongoDB` `Express` `Gemini API` `RAG` `Speech-to-Text`
+
+---
+
+### ⛽ [Energy Supply Chain Digital Twin](https://github.com/Gayathrisubramanian06/Supply-Chain-Digital-Twin)
+
+Live Demo: [https://supply-chain-digital-twin-bfi3.vercel.app/](https://supply-chain-digital-twin-bfi3.vercel.app/)
+
+An AI-powered digital twin that monitors India's crude oil supply chain in real time — fusing geopolitical risk, disruption simulation, and procurement strategy into one live map.
+
+Key Features:
+
+- 🌍 Real-time risk scoring via custom-trained ML model on live GDELT news feeds
+- 🛡️ Automated cross-referencing against real OFAC sanctions data
+- 🔬 ML-driven shock simulator trained on 25+ real historical oil crises
+- 🚛 Adaptive procurement engine that re-ranks alternate crude sources as risk rises
+- 🗺️ Live interactive map with animated AIS vessel traffic and risk-colored shipping lanes
+
+Tech Stack: `React.js` `FastAPI` `Python` `scikit-learn` `Leaflet` `Groq` `GDELT`
+
+---
+
+## 🏆 Achievements & Leadership
+
+- 🥇 **Top 5%** — NPTEL Joy of Computing Using Python *(Elite Gold)*
+- 🏁 **Team Lead** — DedSec CTF | Among Top 5 teams with **7650 points**
+- 🏆 **Team Lead** — Ajraksha Hackathon | Developed a Voice-Based Eligibility Scheme System
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🤝 Let's Connect!
+
+heyy change this too to this professional thing we made above 
