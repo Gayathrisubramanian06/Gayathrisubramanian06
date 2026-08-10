@@ -140,7 +140,7 @@ Tech Stack: `React.js` `FastAPI` `Python` `scikit-learn` `Leaflet` `Groq` `GDELT
 
 - 🥇 NPTEL Elite Gold — Joy of Computing Using Python
 - 🥇 NPTEL Gold — Programming in Java
-- 💼 Deloitte Australia Technology Job Simulation — Forage
+- AWS AI Practitioner by Udacity
 
 ---
 
