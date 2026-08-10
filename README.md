@@ -1,12 +1,10 @@
-<h1 align="center">Gayathri S</h1>
+<div align="center">
 
-<p align="center">
-  AI/ML Engineer • Generative AI • RAG • Backend Development
-</p>
+# Gayathri S
 
-<p align="center">
-<b>AI • Machine Learning • Generative AI</b>
-</p>
+`AI/ML Engineer` · `Generative AI` · `RAG` · `Backend Development`
+
+</div>
 
 <p align="center">
 Building practical AI systems using LLMs, RAG, and intelligent agents.
