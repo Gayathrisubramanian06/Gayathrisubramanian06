@@ -1,6 +1,7 @@
+<h1 align="center">Gayathri S</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=38&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=GAYATHRI+S"/>
+  AI/ML Engineer • Generative AI • RAG • Backend Development
 </p>
 
 <p align="center">
