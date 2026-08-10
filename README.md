@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=GAYATHRI%20S&fontSize=55&font=Poppins&color=0:667eea,100:764ba2&stroke=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=GAYATHRI%20S&fontSize=55&font=Montserrats&color=0:667eea,100:764ba2&stroke=ffffff&animation=fadeIn"/>
 
 <br>
 
