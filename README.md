@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=GAYATHRI%20S&fontSize=55&color=0:667eea,100:764ba2&stroke=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=GAYATHRI%20S&fontSize=55&font=Poppins&color=0:667eea,100:764ba2&stroke=ffffff&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=AI%2FML+%7C+GENERATIVE+AI+%7C+RAG;LLMs+%7C+AI+AGENTS+%7C+BACKEND;BUILDING+THE+FUTURE+WITH+AI" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=AI%2FML+%7C+GENERATIVE+AI+%7C+RAG;LLMs+%7C+AI+AGENTS+%7C+BACKEND;BUILDING+THE+FUTURE+WITH+AI"/>
 
 </div>
 
