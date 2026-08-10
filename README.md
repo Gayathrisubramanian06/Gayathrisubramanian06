@@ -1,14 +1,19 @@
 <div align="center">
 
-# Gayathri S
+<h1>✦ Gayathri S</h1>
 
-`AI/ML Engineer` · `Generative AI` · `RAG` · `Backend Development`
+<p>
+  <b>AI/ML Engineer</b> &nbsp;•&nbsp;
+  <b>Generative AI</b> &nbsp;•&nbsp;
+  <b>RAG</b> &nbsp;•&nbsp;
+  <b>Backend Development</b>
+</p>
+
+<p>
+  <i>Building intelligent systems that turn ideas into real-world solutions.</i>
+</p>
 
 </div>
-
-<p align="center">
-Building practical AI systems using LLMs, RAG, and intelligent agents.
-</p>
 
 <p align="center">
 <a href="mailto:gayathrisubramanian2006@gmail.com">Email</a> •
