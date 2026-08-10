@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Gayathri%20S&fontSize=50&fontAlignY=35&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=GAYATHRI%20S&fontSize=55&color=0:667eea,100:764ba2&stroke=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+Progress+%F0%9F%A4%96;Generative+AI+%7C+RAG+%7C+LLMs;Building+Intelligent+Systems+%E2%9C%A8" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=AI%2FML+%7C+GENERATIVE+AI+%7C+RAG;LLMs+%7C+AI+AGENTS+%7C+BACKEND;BUILDING+THE+FUTURE+WITH+AI" />
 
 </div>
 
