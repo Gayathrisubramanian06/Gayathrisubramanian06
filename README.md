@@ -1,17 +1,8 @@
 <div align="center">
 
-<h1>✦ Gayathri S</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Gayathri%20S&fontSize=50&fontAlignY=35&animation=twinkling"/>
 
-<p>
-  <b>AI/ML Engineer</b> &nbsp;•&nbsp;
-  <b>Generative AI</b> &nbsp;•&nbsp;
-  <b>RAG</b> &nbsp;•&nbsp;
-  <b>Backend Development</b>
-</p>
-
-<p>
-  <i>Building intelligent systems that turn ideas into real-world solutions.</i>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer+in+Progress+%F0%9F%A4%96;Generative+AI+%7C+RAG+%7C+LLMs;Building+Intelligent+Systems+%E2%9C%A8" />
 
 </div>
 
