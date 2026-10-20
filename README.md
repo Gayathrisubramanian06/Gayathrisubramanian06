@@ -132,10 +132,11 @@ Tech Stack: `React.js` `FastAPI` `Python` `scikit-learn` `Leaflet` `Groq` `GDELT
 
 ## 🏆 Achievements & Leadership
 
+-   Won the **TCS Techday Hackathon** conducted by TCS
 -  **Top 5%** — NPTEL Joy of Computing Using Python *(Elite Gold)*
 -   DedSec CTF | Among Top 5 teams with **7650 points**
--   Won the **TCS Techday Hackathon** conducted by TCS
-- 
+
+  
 
 ---
 # 📜 Certifications
