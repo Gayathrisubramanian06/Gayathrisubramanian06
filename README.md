@@ -20,10 +20,11 @@
 
 ## 🚀 About Me
 
-- 🔍 Exploring **LLMs, RAG, AI Agents & LangChain Pipelines**
-- ⚙️ Skilled in **Backend Development + AI Integration**
-- 🧠 Passionate about **scalable, production-ready AI solutions**
-- 🌱 Intern at **IIT Ropar** — worked on voice-based and RAG systems
+-  Pursuing Bachelor of Technology in **Computer Science and Engineering** at **NSS Engineering College, Palakkad**
+-  Exploring **LLMs, RAG, AI Agents & LangChain Pipelines**
+-  Skilled in **Backend Development + AI Integration**
+-  Passionate about **scalable, production-ready AI solutions**
+-  Intern at **IIT Ropar** — worked on voice-based and RAG systems
 
 ---
 
