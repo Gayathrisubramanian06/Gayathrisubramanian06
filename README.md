@@ -132,15 +132,16 @@ Tech Stack: `React.js` `FastAPI` `Python` `scikit-learn` `Leaflet` `Groq` `GDELT
 
 ## 🏆 Achievements & Leadership
 
-- 🥇 **Top 5%** — NPTEL Joy of Computing Using Python *(Elite Gold)*
-- 🏁 **Team Lead** — DedSec CTF | Among Top 5 teams with **7650 points**
-- 🏆 **Team Lead** — Ajraksha Hackathon | Developed a Voice-Based Eligibility Scheme System
+-  **Top 5%** — NPTEL Joy of Computing Using Python *(Elite Gold)*
+-   DedSec CTF | Among Top 5 teams with **7650 points**
+-   Won the **TCS Techday Hackathon** conducted by TCS
+- 
 
 ---
 # 📜 Certifications
 
-- 🥇 NPTEL Elite Gold — Joy of Computing Using Python
-- 🥇 NPTEL Gold — Programming in Java
+- NPTEL Elite Gold — Joy of Computing Using Python
+- NPTEL Gold — Programming in Java
 - AWS AI Practitioner by Udacity
 
 ---
